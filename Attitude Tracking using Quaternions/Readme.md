@@ -5,3 +5,4 @@
 5) After uploading them open the initial_condition_integrator file and run it.
 6) After then run the simulation.
 7) You can view the graphs by clicking on output scope.
+8) A document is added in pdf format which hai attitude kinematics and basic circuit implementated in simulink.
